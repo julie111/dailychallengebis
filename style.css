@@ -101,8 +101,8 @@ a:hover {
   justify-content: center;
 }
 
-.feature{
-  border: 2px solid rgb(152, 224, 215);
+feature,.defi{
+   border: 2px solid rgb(152, 224, 215);
   background: rgb(252, 200, 222);
   margin: 15px;
   padding: 15px 0;
@@ -110,3 +110,13 @@ a:hover {
   width: 450px;
 }
 
+#welcome{
+  background-color: #41A3C0;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 50px;
+}
